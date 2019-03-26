@@ -1,7 +1,6 @@
-# 7. Write a Python program to accept a filename
-# from the user and print the extension of that.
+# 8. Write a Python program to display the first 
+# and last colors from the following list.
 
 
-filename = input("Input the Filename: ")
-f_extns = filename.split(".")
-print ("The extension of the file is : " + repr(f_extns[-1]))
+color_list = ["Red","Green","White" ,"Black"]
+print( "%s %s"%(color_list[0],color_list[-1]))
