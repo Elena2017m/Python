@@ -9,5 +9,4 @@ if mod > 0:
 else:
 
     print("You picked an even number.")
-#
-#
+
