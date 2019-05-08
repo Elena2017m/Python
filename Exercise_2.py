@@ -10,4 +10,3 @@ else:
 
     print("You picked an even number.")
 
-#
